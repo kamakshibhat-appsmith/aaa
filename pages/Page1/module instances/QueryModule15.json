@@ -6,7 +6,10 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
+    "inputs": {
+      "input1": "5",
+      "input2": "5"
+    },
     "moduleInputs": {
       "bfqjlxgsyr": {},
       "vwazjmprry": {}
