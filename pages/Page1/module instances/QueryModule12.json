@@ -12,7 +12,7 @@
       }
     ],
     "inputs": {
-      "input1": "{{Text1.text}}",
+      "input1": "{{Text11.text}}",
       "input2": "22222"
     },
     "moduleInputs": {
