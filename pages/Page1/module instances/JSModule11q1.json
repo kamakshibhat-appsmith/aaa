@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66ab8acc0328fd3f694dbfdc_d791b500-7dd8-470d-b518-1f93f80d4359",
-  "id": "Page1_JSModule11",
+  "id": "Page1_JSModule11q1",
   "moduleUUID": "d2aed24a-ea00-4859-8287-13335173a9fa",
   "packageUUID": "26adfd9e-4ae4-48e6-b340-0e3a5b0e400d",
   "type": "JS_MODULE",
@@ -14,8 +14,8 @@
       "cpfpkkdsiz": {},
       "yrmanbxntz": {}
     },
-    "name": "JSModule11",
+    "name": "JSModule11q1",
     "pageId": "Page1",
-    "version": "0.0.7"
+    "version": "0.0.8"
   }
 }
