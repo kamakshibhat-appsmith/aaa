@@ -6,16 +6,13 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "myFun1": "[\"33333\",\"4444\"]",
-      "myFun2": "[]"
-    },
+    "inputs": {},
     "moduleInputs": {
       "cpfpkkdsiz": {},
       "yrmanbxntz": {}
     },
     "name": "JSModule12",
     "pageId": "Page1",
-    "version": "0.0.7"
+    "version": "0.0.8"
   }
 }
