@@ -6,10 +6,7 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "myFun1": "[\"3\",\"3\"]",
-      "myFun2": "[]"
-    },
+    "inputs": {},
     "moduleInputs": {
       "cpfpkkdsiz": {},
       "yrmanbxntz": {}
