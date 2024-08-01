@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun1": "[\"66\",\"66\"]",
+      "myFun1": "[\"6\",\"6\"]",
       "myFun2": "[]"
     },
     "moduleInputs": {
