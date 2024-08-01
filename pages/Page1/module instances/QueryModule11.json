@@ -6,14 +6,9 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "dynamicBindingPathList": [
-      {
-        "key": "input1"
-      }
-    ],
     "inputs": {
-      "input1": "{{Text1.text}}",
-      "input2": "2"
+      "input1": "11133",
+      "input2": "11111166"
     },
     "moduleInputs": {
       "bfqjlxgsyr": {},
